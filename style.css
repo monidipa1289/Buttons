@@ -1,0 +1,15 @@
+body
+{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+button
+{
+    height: 200px;
+    width: 200px;
+    margin: 8px;
+    border-radius: 20%;
+    border: white;
+    box-shadow: 0px 0px 0px 0px rgba(105, 161, 161, 0.527);
+}
